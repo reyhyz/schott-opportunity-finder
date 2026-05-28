@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "RAG-based market intelligence tool for SCHOTT pharmaceutical glass opportunities"
 readme = "README.md"
 requires-python = ">=3.13"
+<<<<<<< Updated upstream
+dependencies = []
+=======
 dependencies = [
     "google-genai>=1.0.0",
     "chromadb>=0.5.0",
@@ -14,4 +17,6 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "pandas>=2.2.0",
     "httpx>=0.27.0",
+    "python-multipart>=0.0.18",
 ]
+>>>>>>> Stashed changes
