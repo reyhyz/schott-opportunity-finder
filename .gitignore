@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Secrets
+.env
+
+# Generated / large data — never commit
+backend/chroma_db/
+backend/data/
