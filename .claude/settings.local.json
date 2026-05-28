@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git config *)",
+      "Bash(gh repo *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(mkdir \"C:\\\\Users\\\\Asuss\\\\Documents\\\\uni\\\\coding\\\\repositories\\\\schott-opportunity-finder\\\\backend\" \"C:\\\\Users\\\\Asuss\\\\Documents\\\\uni\\\\coding\\\\repositories\\\\schott-opportunity-finder\\\\frontend\")",
+      "Bash(git mv *)",
+      "Bash(New-Item -ItemType File \"C:\\\\Users\\\\Asuss\\\\Documents\\\\uni\\\\coding\\\\repositories\\\\schott-opportunity-finder\\\\frontend\\\\.gitkeep\")",
+      "Bash(Out-Null)"
+    ]
+  }
+}
